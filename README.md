@@ -100,14 +100,17 @@ http://localhost:8080/api/students
 ➤ Add Student
 <img width="854" height="673" alt="image" src="https://github.com/user-attachments/assets/bdae7837-3d08-49e3-baa6-65f6cc313e8f" />
 ➤ Get All Students
-<img width="854" height="673" alt="image" src="https://github.com/user-attachments/assets/bdae7837-3d08-49e3-baa6-65f6cc313e8f" />
-➤ Get Student by ID
-<img width="868" height="760" alt="image" src="https://github.com/user-attachments/assets/6bece7cc-7011-43c1-ae72-8359ef3e9706" />
-➤ Update Student
-<img width="910" height="798" alt="image" src="https://github.com/user-attachments/assets/276d9be7-9b0b-4825-b398-c384523069ca" />
-➤ Delete Student
-<img width="845" height="617" alt="image" src="https://github.com/user-attachments/assets/0f136487-9770-4b99-9997-d418499f49d8" />
 
+<img width="868" height="760" alt="image" src="https://github.com/user-attachments/assets/6bece7cc-7011-43c1-ae72-8359ef3e9706" />
+
+➤ Get Student by ID
+
+<img width="910" height="798" alt="image" src="https://github.com/user-attachments/assets/276d9be7-9b0b-4825-b398-c384523069ca" />
+➤ Update Student
+
+➤ Delete Student
+
+<img width="845" height="617" alt="image" src="https://github.com/user-attachments/assets/0f136487-9770-4b99-9997-d418499f49d8" />
 <img width="869" height="692" alt="image" src="https://github.com/user-attachments/assets/b77f3abe-36dc-4165-ac17-5a792c64cc17" />
 <img width="854" height="673" alt="image" src="https://github.com/user-attachments/assets/bdae7837-3d08-49e3-baa6-65f6cc313e8f" />
 <img width="868" height="760" alt="image" src="https://github.com/user-attachments/assets/6bece7cc-7011-43c1-ae72-8359ef3e9706" />
