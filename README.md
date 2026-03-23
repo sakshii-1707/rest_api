@@ -30,6 +30,7 @@ redt_api
 │
 ├── controller
 │ └── StudentController.java
+
 │
 ├── model
 │ └── Student.java
@@ -98,9 +99,11 @@ Test using Postman:
 http://localhost:8080/api/students
 📷 API Testing (Postman)
 
-
 ➤ Add Student
 <img width="854" height="673" alt="image" src="https://github.com/user-attachments/assets/bdae7837-3d08-49e3-baa6-65f6cc313e8f" />
+
+
+
 ➤ Get All Students
 
 <img width="868" height="760" alt="image" src="https://github.com/user-attachments/assets/6bece7cc-7011-43c1-ae72-8359ef3e9706" />
@@ -122,9 +125,3 @@ http://localhost:8080/api/students
 <img width="845" height="617" alt="image" src="https://github.com/user-attachments/assets/0f136487-9770-4b99-9997-d418499f49d8" />
 
 
-<img width="869" height="692" alt="image" src="https://github.com/user-attachments/assets/b77f3abe-36dc-4165-ac17-5a792c64cc17" />
-<img width="854" height="673" alt="image" src="https://github.com/user-attachments/assets/bdae7837-3d08-49e3-baa6-65f6cc313e8f" />
-<img width="868" height="760" alt="image" src="https://github.com/user-attachments/assets/6bece7cc-7011-43c1-ae72-8359ef3e9706" />
-<img width="910" height="798" alt="image" src="https://github.com/user-attachments/assets/276d9be7-9b0b-4825-b398-c384523069ca" />
-<img width="880" height="686" alt="image" src="https://github.com/user-attachments/assets/07c884b8-909a-42b0-a704-e1ee75fa17a2" />
-<img width="845" height="617" alt="image" src="https://github.com/user-attachments/assets/0f136487-9770-4b99-9997-d418499f49d8" />
