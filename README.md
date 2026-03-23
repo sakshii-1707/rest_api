@@ -124,4 +124,10 @@ http://localhost:8080/api/students
 
 <img width="845" height="617" alt="image" src="https://github.com/user-attachments/assets/0f136487-9770-4b99-9997-d418499f49d8" />
 
+eclipse work:
 
+<img width="1773" height="942" alt="image" src="https://github.com/user-attachments/assets/e08667ff-4e43-44ce-bb7f-f008baf2c66d" />
+
+maven build:
+
+  <img width="1003" height="514" alt="image" src="https://github.com/user-attachments/assets/095ac8e6-ca95-498b-af08-79e025d4c6db" />
