@@ -98,7 +98,7 @@ Test using Postman:
 http://localhost:8080/api/students
 📷 API Testing (Postman)
 ➤ Add Student
-<img width="869" height="692" alt="image" src="https://github.com/user-attachments/assets/b77f3abe-36dc-4165-ac17-5a792c64cc17" />
+<img width="854" height="673" alt="image" src="https://github.com/user-attachments/assets/bdae7837-3d08-49e3-baa6-65f6cc313e8f" />
 ➤ Get All Students
 <img width="854" height="673" alt="image" src="https://github.com/user-attachments/assets/bdae7837-3d08-49e3-baa6-65f6cc313e8f" />
 ➤ Get Student by ID
